@@ -1,0 +1,24 @@
+form {
+    background: #55acf3;
+    padding: 1.5em;
+    border-radius: 1em;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    background: lightgray;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
